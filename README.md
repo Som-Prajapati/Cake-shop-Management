@@ -3,7 +3,7 @@
 
 ## 📝 Project Description
 
-The **Cake Shop Management System** is a desktop-based Python application developed to assist cake shop owners in maintaining a structured and digital record of cake-related data. The system aims to replace inefficient manual methods of record-keeping with a user-friendly interface that allows smooth data entry, editing, and real-time access to inventory information. Through its well-structured design, the system reduces data inconsistency, minimizes human error, and enhances operational efficiency. It ...
+The **Cake Shop Management System** is a desktop-based Python application developed to assist cake shop owners in maintaining a structured and digital record of cake-related data. The system aims to replace inefficient manual methods of record-keeping with a user-friendly interface that allows smooth data entry, editing, and real-time access to inventory information. Through its well-structured design, the system reduces data inconsistency, minimizes human error, and enhances operational efficiency. It features modules for cake management, customer tracking, order processing, and profit calculation making it a complete solution for small to medium-sized cake businesses.
 
 ## 🎯 Problem Statement
 
