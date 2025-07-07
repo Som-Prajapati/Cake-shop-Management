@@ -79,7 +79,6 @@ Handles all MongoDB database interactions using `pymongo`.
 - **`customer_details.py`** – Manages customer-related data (name, contact, orders placed)  
 - **`order.py`** – Handles customer orders and total price calculations  
 - **`profit_page.py`** – Displays total profit based on quantity sold and price  
-- **`main.py` (if present)** – Launches the application and handles navigation between modules  
 
 ## ✅ Features Summary
 
